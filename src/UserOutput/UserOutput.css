@@ -1,0 +1,9 @@
+.UserOutput{
+    width: 60%;
+    padding: 16px;
+    margin: 16px;
+    border: 2px dotted black;
+    background-color: blanchedalmond;
+    text-align: center;
+    color: blue;
+}
